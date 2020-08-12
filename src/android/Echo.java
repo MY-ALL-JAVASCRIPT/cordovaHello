@@ -11,6 +11,8 @@ import org.json.JSONObject;
 
 public class Echo extends CordovaPlugin {
 
+    public Echo() { }
+
     /**
      * Executes the request and returns PluginResult.
      *

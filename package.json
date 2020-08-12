@@ -1,19 +1,44 @@
 {
-  "name": "com.example.plugin",
-  "version": "0.1.0",
-  "description": "sample echo plugin",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "git+https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+  "_id": "cordova-plugin-echo",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/com.example.plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+    "rawSpec": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+    "saveSpec": "git+https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+    "fetchSpec": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git#f4033b8fbf1b77011d5d3cdb8b0bf811983f59fe",
+  "_spec": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git",
+  "_where": "/var/www/html/subrat/ionic/cordova/cordovaJava",
+  "author": {
+    "name": "subrat palhar"
+  },
+  "bugs": {
+    "url": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "sample echo plugin",
+  "homepage": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "com.example.plugin",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git"
   },
-  "author": "subrat palhar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello#readme"
+  "version": "0.1.0"
 }
