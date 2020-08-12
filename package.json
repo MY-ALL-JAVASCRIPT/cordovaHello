@@ -1,0 +1,19 @@
+{
+  "name": "com.example.plugin",
+  "version": "0.1.0",
+  "description": "sample echo plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MY-ALL-JAVASCRIPT/cordovaHello.git"
+  },
+  "author": "subrat palhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello/issues"
+  },
+  "homepage": "https://github.com/MY-ALL-JAVASCRIPT/cordovaHello#readme"
+}
