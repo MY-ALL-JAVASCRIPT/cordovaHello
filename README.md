@@ -1,0 +1,2 @@
+# cordovaHello
+cordova basic example
